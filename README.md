@@ -8,7 +8,7 @@
 <br/>
 
 ## 🛠️ Como instalar o Android Studio:
-<p>Após o arquivo ser baixado, clique em "Next" </p>
+<p>Após o arquivo ser baixado, clique em "Next". </p>
 
 ![1](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/1c39eadd-0f82-4e42-b6e5-de6f2bf99d37)
 
