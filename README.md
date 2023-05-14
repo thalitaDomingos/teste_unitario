@@ -80,7 +80,7 @@
 
 <br/>
 
-<p>Selecione a tela que desejar. Geralmente, iniciamos com a tela "Empty Activity", uma tela simples que printa apenas um "Hello World".</p>
+<p>Selecione a tela que desejar. Geralmente, iniciamos com a tela "Empty Activity", uma tela simples que mostra apenas a mensagem "Hello World".</p>
 
 ![2](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/f4a3b159-62ea-46e0-afc8-57504d73f44e)
 
@@ -96,3 +96,6 @@
 
 ![studio-editor](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/11aacb8b-c4ce-449a-9b11-efce48d2f9ca)
 
+<br/>
+
+<p>Em seguida, a mensagem "Hello World" será mostrada no celular virtual ou no seu próprio celular android. Lembre-se de ativar o modo desenvolvedor do seu próprio celular, caso use ele para rodar os aplicativos.</p>
