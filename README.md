@@ -10,25 +10,25 @@
 ## 🛠️ Como instalar o Android Studio:
 <p>Após o arquivo ser baixado, clique em "Next" </p>
 
-![1](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/c980bd63-acdb-499b-bc40-e17d214ee9fb)
+![1](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/1c39eadd-0f82-4e42-b6e5-de6f2bf99d37)
 
 <br/>
 
 <p>Selecione a opção "Custom" para customizar as configuraçãoes e os componentes. Logo depois, clique em "Next". Se desejar instalar as configurações padrões, basta selecionar a opção "Stantard".</p>
 
-![2](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/9e710b2d-7779-40ab-bdd0-5b77937a9adb)
+![2](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/2811a5c2-b6a0-400d-bcaa-e2dfd08783e2)
 
 <br/>
 
 <p>Em seguida, clique em "Next".</p>
 
-![3](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/020e7ffd-fa39-4eb7-8db2-35fa485e8466)
+![3](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/a133cc1d-48c6-45c9-a9b5-5469a3e11eea)
 
 <br/>
 
 <p>Selecione a opção "Darcula" se preferir um tema escuro. Caso prefira um tema claro, selecione a opção "Light". Em seguida, clique em "Next".</p>
 
-![4](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/0620ea81-a88a-4770-93eb-eeb340ca01fd)
+![4](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/5a373b15-1f44-47e7-8686-53d3b4c73436)
 
 <br/>
 
@@ -38,7 +38,7 @@
 <p>Escolha um local para salvar o Android SDK. O diretório escolhido não deve conter caracteres especiais e nem espaços em branco.</p>
 <p>Selecione a opção "Next".</p>
 
-![5](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/79e2ab19-d2a2-4b5b-9961-6dcfc129b42f)
+![5](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/5465b9b9-6bdc-4dd5-8f50-6fa91a0c3529)
 
 <br/>
 
@@ -49,25 +49,25 @@
 ## 🛠️ Como configurar o Software Development Kit - SDK:
 <p>Para configurar o SDK, abra a janela "More Actions" e marque a opção "SDK Manager". </p>
 
-![8](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/654dcc92-f256-42f6-94d5-f58cec31cedb)
+![8](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/1578e449-1345-45b3-8071-ac8bba53c3e2)
 
 <br/>
 
 <p>Em "SDK Platforms" marque as opçoes de API Level que desejar. É recomendado uma versão mais recente e outra menos atual. Marque a opção "OK" para fazer a instalação.</p>
 
-![11](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/47fd34b3-f73e-4cc9-8f2c-cdc3d1800c62)
+![11](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/9b299c92-7bd2-48d0-8cc0-296b96b22f15)
 
 <br/>
 
 <p>Aceite os termos e condições e marque a opção "Next". Aguarde a instalação.</p>
 
-![12](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/a334d4c9-da0e-4c20-acf1-2bd661ff9aa6)
+![12](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/4aee1b45-1b59-4034-9a78-e4b408d245fa)
 
 <br/>
 
 <p>Abra novamente a janela "More Actions" e "SDK Manager" para configurar o SDK Tools. Marque as opções que estão selecionadas na imagem abaixo e clique em "OK".</p>
 
-![14](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/47246ebb-1e52-4a96-98fa-c4cadc4ab262)
+![14](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/5d8c77fd-ba17-47da-be44-ddaa41c537d0)
 
 <br/>
 
@@ -76,23 +76,23 @@
 ## 🛠️ Passos para criar um projeto no Android Studio:
 <p>Selecione a opção "New Project".</p>
 
-![1](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/e49ebbd2-fb4c-4080-a221-a77c3ca562ee)
+![1](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/1f815f7b-bc1d-4f9b-baff-7b77c5fc58f5)
 
 <br/>
 
 <p>Selecione a tela que desejar. Geralmente, iniciamos com a tela "Empty Activity", uma tela simples que printa apenas um "Hello World".</p>
 
-![2](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/4a92f0ee-d3e9-4ef8-a1e3-1a70c7c14b85)
+![2](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/f4a3b159-62ea-46e0-afc8-57504d73f44e)
 
 <br/>
 
 <p>Escolha um nome para o projeto e para o pacote do projeto. Escolha também um local para ele ser salvo. Em seguida, marque a linguagem que será usada (Java ou Kotlin). Selecione a opção "Finish". </p>
 
-![3](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/6fa7cfd9-616a-45cf-be88-c49f45c588a9)
+![3](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/31cf3c34-ec55-4195-85cd-e61a93934ab9)
 
 <br/>
 
 <p>O Android Studio criará um projeto "pronto". Para rodá-lo é necessário clicar no seguinte botão: </p>
 
-![studio-editor](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/80f1287e-2e0b-49ac-b3cc-75901c531cd4)
+![studio-editor](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/11aacb8b-c4ce-449a-9b11-efce48d2f9ca)
 
