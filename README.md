@@ -72,3 +72,27 @@
 <br/>
 
 <p>Aguarde a instalação e clique em "Finish".</p>
+
+## 🛠️ Passos para criar um projeto no Android Studio:
+<p>Selecione a opção "New Project".</p>
+
+![1](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/e49ebbd2-fb4c-4080-a221-a77c3ca562ee)
+
+<br/>
+
+<p>Selecione a tela que desejar. Geralmente, iniciamos com a tela "Empty Activity", uma tela simples que printa apenas um "Hello World".</p>
+
+![2](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/4a92f0ee-d3e9-4ef8-a1e3-1a70c7c14b85)
+
+<br/>
+
+<p>Escolha um nome para o projeto e para o pacote do projeto. Escolha também um local para ele ser salvo. Em seguida, marque a linguagem que será usada (Java ou Kotlin). Selecione a opção "Finish". </p>
+
+![3](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/6fa7cfd9-616a-45cf-be88-c49f45c588a9)
+
+<br/>
+
+<p>O Android Studio criará um projeto "pronto". Para rodá-lo é necessário clicar no seguinte botão: </p>
+
+![studio-editor](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/80f1287e-2e0b-49ac-b3cc-75901c531cd4)
+
