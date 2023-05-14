@@ -44,5 +44,31 @@
 
 <p>Aguarde a instalação e quando ela for concluída selecione a opção "Finish".</p>
 
+<br/>
 
+## 🛠️ Como configurar o Software Development Kit - SDK:
+<p>Para configurar o SDK, abra a janela "More Actions" e marque a opção "SDK Manager". </p>
 
+![8](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/654dcc92-f256-42f6-94d5-f58cec31cedb)
+
+<br/>
+
+<p>Em "SDK Platforms" marque as opçoes de API Level que desejar. É recomendado uma versão mais recente e outra menos atual. Marque a opção "OK" para fazer a instalação.</p>
+
+![11](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/47fd34b3-f73e-4cc9-8f2c-cdc3d1800c62)
+
+<br/>
+
+<p>Aceite os termos e condições e marque a opção "Next". Aguarde a instalação.</p>
+
+![12](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/a334d4c9-da0e-4c20-acf1-2bd661ff9aa6)
+
+<br/>
+
+<p>Abra novamente a janela "More Actions" e "SDK Manager" para configurar o SDK Tools. Marque as opções que estão selecionadas na imagem abaixo e clique em "OK".</p>
+
+![14](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/47246ebb-1e52-4a96-98fa-c4cadc4ab262)
+
+<br/>
+
+<p>Aguarde a instalação e clique em "Finish".</p>
