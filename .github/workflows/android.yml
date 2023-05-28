@@ -34,9 +34,9 @@ jobs:
       run:  |
         cd calculator_test
         ./gradlew clean test
-        # cd app
-        # ls
-        # pwd
+        cd app
+        ls
+        pwd
 
     - name: Empacotar o APK
       run:  |
