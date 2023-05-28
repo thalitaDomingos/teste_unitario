@@ -48,13 +48,13 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: Relatorio de testes
-        path: /home/runner/work/teste/teste/calculator_test/app/test-results/*
+        path: /home/runner/work/teste_unitario/teste_unitario/calculator_test/app/test-results/*
         
     - name: Salvar Pacote
       uses: actions/upload-artifact@v3
       with:
         name: Pacote APK
-        path: /home/runner/work/teste/teste/calculator_test/app/build/outputs/apk/debug/app-debug.apk
+        path: /home/runner/work/teste_unitario/teste_unitario/calculator_test/app/build/outputs/apk/debug/app-debug.apk
 
         
     
