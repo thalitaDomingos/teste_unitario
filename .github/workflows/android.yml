@@ -22,17 +22,17 @@ jobs:
 
     - name: Grant execute permission for gradlew
       run: | 
-        cd teste_unitario
+        cd calculator_test
         chmod +x gradlew
       
     - name: Build with Gradle
       run: | 
-        cd teste_unitario
+        cd calculator_test
         ./gradlew clean build
     
     - name: Executar testes e gerar relatório
       run:  |
-        cd teste_unitario
+        cd calculator_test
         ./gradlew clean test
         # cd app
         # ls
@@ -40,7 +40,7 @@ jobs:
 
     - name: Empacotar o APK
       run:  |
-        cd teste_unitario
+        cd calculator_test
         ./gradlew assembleDebug
       continue-on-error: true
 
@@ -48,13 +48,13 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: Relatorio de testes
-        path: /home/runner/work/teste/teste/teste_unitario/app/test-results/*
+        path: /home/runner/work/teste/teste/calculator_test/app/test-results/*
         
     - name: Salvar Pacote
       uses: actions/upload-artifact@v3
       with:
         name: Pacote APK
-        path: /home/runner/work/teste/teste/teste_unitario/app/build/outputs/apk/debug/app-debug.apk
+        path: /home/runner/work/teste/teste/calculator_test/app/build/outputs/apk/debug/app-debug.apk
 
         
     
