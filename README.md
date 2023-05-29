@@ -76,7 +76,9 @@
 ## 🛠️ Passos para criar um projeto no Android Studio:
 <p>Selecione a opção "New Project".</p>
 
+[:center:]
 ![1](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/b78d812a-a062-47db-8737-ef12f575a48a)
+[:center:]
 
 <br/>
 
@@ -98,7 +100,7 @@
 
 <br/>
 
-<p>Em seguida, a mensagem "Hello World" será mostrada no celular virtual ou no seu próprio celular android. Lembre-se de ativar o modo desenvolvedor do seu próprio celular, caso use ele para rodar os aplicativos.</p>
+<p>Em seguida, a mensagem "Hello World" será mostrada no emulador Android ou no dispositivo Android. Lembre-se de ativar o modo desenvolvedor do seu celular, caso use ele para rodar os aplicativos.</p>
 
 <br/>
 
