@@ -76,9 +76,7 @@
 ## 🛠️ Passos para criar um projeto no Android Studio:
 <p>Selecione a opção "New Project".</p>
 
-<div style="text-align:center">
-    ![1](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/b78d812a-a062-47db-8737-ef12f575a48a)
-</div>
+![1](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/b78d812a-a062-47db-8737-ef12f575a48a)
 
 <br/>
 
