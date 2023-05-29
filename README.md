@@ -1,3 +1,8 @@
+[![Java](https://github.com/thalitaDomingos/teste_unitario/actions/workflows/android.yml/badge.svg)](https://github.com/thalitaDomingos/teste_unitario/actions/workflows/android.yml)
+
+
+<br/>
+
 <h1 align="center"> <h1 align="center"> Teste Unitário Utilizando o Android Studio </h1> </h1>
 
 <br/>
@@ -110,7 +115,24 @@
 
 <br/>
 
-<p>Como rodar pelo terminal?</p>
+<p>Para rodar o código pelo terminal do Android Studio, execute o seguinte comando:</p>
+```
+cd /Users/seu-usuario/AndroidStudioProjects/NomeDoProjeto
+```
+<br/>
+
+<p>Execute o comando abaixo para compilar e instalar o aplicativo no dispositivo ou emulador:</p>
+
+```
+./gradlew installDebug
+```
+<br/>
+
+<p>Após a instalação, o aplicativo pode ser iniciado utilizando o seguinte comando:</p>
+
+```
+adb shell am start -n com.seuapp.nomepacote/.NomeDaAtividadePrincipal
+```
 
 <br/>
 
