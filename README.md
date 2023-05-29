@@ -125,7 +125,7 @@ dependencies {
 
 <br/>
 
-<p>Para instalar o código é necessário clicar no botão "code". Em seguida, o código pode ser clonado ou baixado em formato ZIP. Para clonar, é preciso copiar o link do repositório. Em seguida, abra o git bash para clonar o repositório. Caso não tenha esse programa, baixe no site https://git-scm.com/ . Com o terminal do git bash aberto digite o comando abaixo:</p>
+<p>Para instalar o código é necessário clicar no botão "code". Em seguida, o código pode ser clonado ou baixado em formato ZIP. Para clonar, é preciso copiar o link do repositório. Em seguida, abra o git bash para clonar o repositório. Caso não tenha esse programa, baixe no <a href="https://git-scm.com/">site do Git</a>. Com o terminal do git bash aberto digite o comando abaixo:</p>
   
 ```
   git clone https://github.com/thalitaDomingos/teste_unitario.git
