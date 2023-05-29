@@ -49,7 +49,11 @@
 ## 🛠️ Como configurar o Software Development Kit - SDK:
 <p>Para configurar o SDK, abra a janela "More Actions" e marque a opção "SDK Manager". </p>
 
+<div align="center">
+
 ![8](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/702262b2-1f64-4534-bc52-93af403c7e1f)
+
+</div>
 
 <br/>
 
