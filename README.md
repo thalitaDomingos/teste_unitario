@@ -76,12 +76,10 @@
 ## 🛠️ Passos para criar um projeto no Android Studio:
 <p>Selecione a opção "New Project".</p>
 
-[:center:]
-![1](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/b78d812a-a062-47db-8737-ef12f575a48a)
-[:center:]
 <div style="text-align:center">
-    <img src="[caminho/para/sua/imagem.jpg](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/b78d812a-a062-47db-8737-ef12f575a48a)" alt="Descrição da imagem">
+    ![1](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/b78d812a-a062-47db-8737-ef12f575a48a)
 </div>
+
 <br/>
 
 <p>Selecione a tela que desejar. Geralmente, iniciamos com a tela "Empty Activity", uma tela simples que mostra apenas a mensagem "Hello World".</p>
