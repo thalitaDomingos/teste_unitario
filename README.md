@@ -138,10 +138,13 @@ dependencies {
 ## 🛠️ Como executar o código "calculator_test":
 <p>Após clonar ou baixar o arquivo, abra o projeto no Android Studio.</p>
   
-  
+<br/>
 
+![1](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/6548fca3-84c7-4dfe-9651-ff0dac72b0b7)
 
+<br/>
 
+<p>Para executar os testes, abra o arquivo "CalculatorTest". Os testes podem ser testados todos juntos ou um por um. Para testar todos juntos, basta apertar o botão da classe "CalculatorTest, que se encontra na linha 6 do código. Já para testar um por um, é necessário localizar o teste que deseja como, por exemplo, o "testeAdd" que está localizado na linha 11, e pressionar o botão ao lado dele.</p>
 
 
 
