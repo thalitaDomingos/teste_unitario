@@ -1,8 +1,5 @@
 [![Java](https://github.com/thalitaDomingos/teste_unitario/actions/workflows/android.yml/badge.svg)](https://github.com/thalitaDomingos/teste_unitario/actions/workflows/android.yml)
 
-
-<br/>
-
 <h1 align="center"> <h1 align="center"> Teste Unitário Utilizando o Android Studio </h1> </h1>
 
 <br/>
