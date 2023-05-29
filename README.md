@@ -107,7 +107,6 @@
 <br/>
 
 ## 🛠️ Gerenciamento de dependências do Android Studio:
-
 <p>É possível gerenciar as dependências do Android Studio através do arquivo build.gradle do módulo. Esse arquivo, normalmente localizado no diretório do módulo do projeto, contém uma seção chamada dependencies. Nessa seção, pode-se adicionar as dependências do projeto, ou seja, pode-se adicionar bibliotecas locais ou bibliotecas hospedadas em repositórios remotos, como o Maven Central ou o JCenter. Além disso, o arquivo build.gradle do módulo trabalha com as linguagens groovy e kotlin. Por exemplo, para adicionar a biblioteca Gson em groovy, basta adicionar a seguinte linha no arquivo build.gradle do módulo:</p>
 
 ``` 
@@ -137,9 +136,6 @@ dependencies {
 <br/>
 
 ## 🛠️ Como executar o código "calculator_test":
-
-<br/>
-
 <p>Após clonar ou baixar o arquivo, abra o projeto no Android Studio.</p>
   
   
