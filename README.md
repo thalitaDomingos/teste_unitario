@@ -16,7 +16,7 @@
 
 <br/>
 
-<p>Selecione a opção "Custom" para customizar as configuraçãoes e os componentes. Logo depois, clique em "Next". Se desejar instalar as configurações padrões, basta selecionar a opção "Stantard".</p>
+<p>Selecione a opção "Custom" para customizar as configurações e os componentes. Logo depois, clique em "Next". Se desejar instalar as configurações padrões, basta selecionar a opção "Stantard".</p>
 
 ![2](https://github.com/thalitaDomingos/teste_unitario/assets/90002483/d77c02e6-8aff-4cc7-bde7-2b1082ae1a52)
 
