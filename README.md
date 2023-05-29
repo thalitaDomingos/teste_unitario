@@ -113,9 +113,11 @@
 <br/>
 
 <p>Para rodar o código pelo terminal do Android Studio, execute o seguinte comando:</p>
+
 ```
 cd /Users/seu-usuario/AndroidStudioProjects/NomeDoProjeto
 ```
+
 <br/>
 
 <p>Execute o comando abaixo para compilar e instalar o aplicativo no dispositivo ou emulador:</p>
