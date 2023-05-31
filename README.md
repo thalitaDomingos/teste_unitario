@@ -177,7 +177,7 @@ dependencies {
 
 <br/>
 
-<p>Para gerar o relatório de testes, digite o comando abaixo no terminal:</p>
+<p>Para gerar o relatório de testes, digite o comando abaixo no terminal do Android Studio:</p>
 
  ```
  ./gradlew clean test
@@ -185,7 +185,7 @@ dependencies {
  
  <br/>
 
-<p>Para gerar o pacote APK, digite o comando abaixo no terminal:</p>
+<p>Para gerar o pacote APK, digite o comando abaixo no terminal do Android Studio:</p>
 
  ```
 ./gradlew assembleDebug
