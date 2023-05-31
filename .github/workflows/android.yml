@@ -8,6 +8,42 @@ on:
 
 jobs:
   build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: set up JDK 11
+      uses: actions/setup-java@v3
+      with:
+        java-version: '11'
+        distribution: 'temurin'
+        cache: gradle
+
+    - name: Grant execute permission for gradlew
+      run: | 
+        cd calculator_test
+        chmod +x gradlew
+
+    - name: Build with Gradle
+      run: | 
+        cd calculator_test
+        ./gradlew clean build
+
+    - name: Empacotar o APK
+      run:  |
+        cd calculator_test
+        ./gradlew assembleDebug
+      continue-on-error: true
+
+    - name: Salvar artefatos
+      uses: actions/upload-artifact@v3
+      with:
+        name: Pacote APK
+        path: /home/runner/work/teste_unitario/teste_unitario/calculator_test/app/build/outputs/apk/debug/app-debug.apk
+
+  test:
+    needs: build
 
     runs-on: ubuntu-latest
 
@@ -24,12 +60,7 @@ jobs:
       run: | 
         cd calculator_test
         chmod +x gradlew
-      
-    - name: Build with Gradle
-      run: | 
-        cd calculator_test
-        ./gradlew clean build
-    
+
     - name: Executar testes e gerar relatório
       run:  |
         cd calculator_test
@@ -38,23 +69,11 @@ jobs:
         ls
         pwd
 
-    - name: Empacotar o APK
-      run:  |
-        cd calculator_test
-        ./gradlew assembleDebug
-      continue-on-error: true
-
     - name: Salvar artefatos
       uses: actions/upload-artifact@v3
       with:
         name: Relatorio de testes
         path: /home/runner/work/teste_unitario/teste_unitario/calculator_test/app/test-results/*
-        
-    - name: Salvar Pacote
-      uses: actions/upload-artifact@v3
-      with:
-        name: Pacote APK
-        path: /home/runner/work/teste_unitario/teste_unitario/calculator_test/app/build/outputs/apk/debug/app-debug.apk
 
         
     
