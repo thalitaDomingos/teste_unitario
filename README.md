@@ -175,14 +175,20 @@ dependencies {
 
 <p>Para executar os testes, abra o arquivo "CalculatorTest". Os testes podem ser testados todos juntos ou um por um. Para testar todos juntos, basta apertar o botão da classe "CalculatorTest, que se encontra na linha 6 do código. Já para testar um por um, é necessário localizar o teste que deseja como, por exemplo, o "testeAdd" que está localizado na linha 11, e pressionar o botão ao lado dele.</p>
 
+<br/>
 
+<p>Para gerar o relatório de testes, digite o comando abaixo no terminal:</p>
 
+ ```
+ ./gradlew clean test
+ ```
+ 
+ <br/>
 
+<p>Para gerar o pacote APK, digite o comando abaixo no terminal:</p>
 
-
-
-
-
-
-
-
+ ```
+./gradlew assembleDebug
+ ```
+ 
+ 
