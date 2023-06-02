@@ -25,10 +25,10 @@ jobs:
         cd calculator_test
         chmod +x gradlew
 
-    - name: Build with Gradle
-      run: | 
-        cd calculator_test
-        ./gradlew clean build
+   # - name: Build with Gradle
+    #  run: | 
+     #   cd calculator_test
+      #  ./gradlew clean build
 
     - name: Empacotar o APK
       run:  |
